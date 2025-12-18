@@ -1,0 +1,8 @@
+{
+  "name": "The Architect's Sanctuary",
+  "description": "A minimalist, dark-themed platform designed to teach high-level human psychology, strategic manipulation, and self-mastery, inspired by the world's greatest tacticians.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
